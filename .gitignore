@@ -1,0 +1,10 @@
+# 製造用ファイル（JLCPCB 出力）
+jlcpcb/
+
+# KiCad バックアップ
+*-backups/
+
+# KiCad 一時ファイル
+*.lck
+_autosave-*
+~*
