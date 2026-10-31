@@ -38,6 +38,8 @@ vialの詳細な使用方法については、こちらの記事がおすすめ�
 - [【初心者向け】Vialでキーボードをカスタムしよう！](https://alektor.hatenablog.com/entry/2024/11/15/233435)
 - [（初心者編）Vialを使ってキーマップを書き換えよう-自作キーボード温泉街の歩き方](https://salicylic-acid3.hatenablog.com/entry/vial-manual)
 
+## 作者連絡先
+X(Twitter): https://x.com/haru1357900
 
 ## デフォルトキーマップ
 mp-41は初期状態では次のようなキー設定となっています。
